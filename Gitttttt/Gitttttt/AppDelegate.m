@@ -17,12 +17,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+
     
     NSLog(@"dev1");
     
     
     NSLog(@"111111111");
     
+    NSLog(@"master");
+    NSLog(@"二次修改");
+
     return YES;
 }
 

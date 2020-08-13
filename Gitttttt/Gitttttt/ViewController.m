@@ -13,8 +13,15 @@
 @end
 
 @implementation ViewController
+
 - (IBAction)test:(id)sender {
     NSLog(@"branch dev1");
+
+- (IBAction)switchAction:(UISwitch *)sender {
+    
+    NSLog(@"开关已%@",sender.isOn ? @"打开" : @"关闭");
+    
+
 }
 
 - (void)viewDidLoad {
