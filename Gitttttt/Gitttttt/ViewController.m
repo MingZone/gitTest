@@ -25,6 +25,8 @@
     NSLog(@"master test - 1");
     
     NSLog(@"dev2 test - 1");
+    
+    NSLog(@"dev2 test - 2");
 }
 
 
