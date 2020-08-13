@@ -13,10 +13,14 @@
 @end
 
 @implementation ViewController
+- (IBAction)test:(id)sender {
+    NSLog(@"branch dev1");
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
 }
 
 
