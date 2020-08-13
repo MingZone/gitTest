@@ -23,7 +23,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"master test - 1");
+    
+
+//    NSLog(@"dev2 test - 333");
+    
 }
 
+//-(void)addFunc{
+//    NSLog(@"master add func");
+//}
 
 @end
