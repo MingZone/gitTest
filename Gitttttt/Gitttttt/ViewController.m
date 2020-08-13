@@ -25,8 +25,12 @@
     NSLog(@"master test - 1");
     
 
+
 //    NSLog(@"dev2 test - 333");
     
+
+    NSLog(@"dev2 test - 1 回滚到test2了");
+
 }
 
 //-(void)addFunc{
