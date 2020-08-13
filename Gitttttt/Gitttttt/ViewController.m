@@ -23,6 +23,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"master test - 1");
+    
+    NSLog(@"dev2 test - 1");
 }
 
 
