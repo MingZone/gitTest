@@ -13,6 +13,11 @@
 @end
 
 @implementation ViewController
+- (IBAction)switchAction:(UISwitch *)sender {
+    
+    NSLog(@"开关已%@",sender.isOn ? @"打开" : @"关闭");
+    
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
