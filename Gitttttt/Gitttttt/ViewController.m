@@ -27,7 +27,13 @@
     NSLog(@"dev2 test - 1");
     
     NSLog(@"dev2 test - 2");
+    
+    NSLog(@"dev2 test - 333");
+    
 }
 
+-(void)addFunc{
+    NSLog(@"master add func");
+}
 
 @end
